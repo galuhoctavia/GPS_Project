@@ -1,0 +1,58 @@
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/uploads/wppa
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/uploads/wppa/thumbs
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/wppa-depot
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/wppa-depot/admin
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/uploads/wppa/watermarks
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/uploads/wppa/fonts
+{b}Obs{/b}: on:April 6, 2017 9:20 am: admin: Created path: D:/XAMPP/htdocs/wordpress/wp-content/uploads/wppa/temp/
+{b}Err{/b}: on:April 6, 2017 9:24 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:25 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:27 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:27 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:28 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:30 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:31 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:33 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:34 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:35 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:36 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:41 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:41 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:47 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:48 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:50 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:52 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:55 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:55 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:57 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 9:58 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:00 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:02 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:04 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:05 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:07 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:07 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:38 am: ::1: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:45 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:49 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:50 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:51 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:53 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:54 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:56 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:56 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:57 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:57 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:58 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 10:59 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:00 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:01 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:02 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:03 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:04 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:05 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:05 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:06 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:07 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:08 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
+{b}Err{/b}: on:April 6, 2017 11:08 am: admin: Unimplemented choice for wppa_cre_uploads_htaccess remove
