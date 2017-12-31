@@ -22,15 +22,15 @@
 /** The name of the database for WordPress */
 //define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', 'D:\XAMPP\htdocs\wordpress\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'anotherone1');
+define('DB_NAME', 'ganesha2_gps');
 
 define('PLL_CACHE_LANGUAGES', false);
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'ganesha2_gpAdmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'gpSejahtera2017');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -40,6 +40,27 @@ define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+
+// define( 'WPCACHEHOME', 'D:\XAMPP\htdocs\wordpress\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
+// define('DB_NAME', 'anotherone1');
+
+// define('PLL_CACHE_LANGUAGES', false);
+
+// /** MySQL database username */
+// define('DB_USER', 'root');
+
+// * MySQL database password 
+// define('DB_PASSWORD', '');
+
+// /** MySQL hostname */
+// define('DB_HOST', 'localhost');
+
+// /** Database Charset to use in creating database tables. */
+// define('DB_CHARSET', 'utf8mb4');
+
+// /** The Database Collate type. Don't change this if in doubt. */
+// define('DB_COLLATE', '');
 
 /**#@+
  * Authentication Unique Keys and Salts.
